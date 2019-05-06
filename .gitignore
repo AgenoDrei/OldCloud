@@ -1,0 +1,5 @@
+Output/
+.ipynb_checkpoints/
+Data/Takeout
+Data/*.tgz
+Data/*.zip
